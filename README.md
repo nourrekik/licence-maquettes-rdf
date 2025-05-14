@@ -9,30 +9,31 @@ L’objectif est d’automatiser la génération de graphes de connaissances à 
 - Nettoyer et structurer ces données dans des fichiers `.csv`  
 - Générer automatiquement les fichiers `.ttl` au format RDF via un script Python  
 - Organiser les fichiers par spécialité (INFO, MATH-INFO, MIAGE) et par niveau (L1, L2, L3)
+- Vérifier le contenu RDF généré via des requêtes SPARQL
+
 
 ## 🗂️ Structure du dépôt
 
-licence-maquettes-rdf/  
-├── BodyOfKnowledge/  
-├── maquette_pdf/  
-├── maquettes/  
-├── maquettes_csv/  
-├── maquettes_csv_clean/  
-│   ├── L1-INFO.csv  
-│   ├── L1-MATH-INFO.csv  
-├── maquettes_rdf/  
-│   ├── L1-INFO.ttl  
-│   ├── L1-MATH-INFO.ttl  
-├── maquettes_xlsx/  
-├── rdf_output/  
-├── venv/  
-├── .gitignore  
-├── pyvenv.cfg  
-├── clean_vertical_csv.py  
-├── csv_to_rdf.py  
-├── validate_rdf.py  
-├── validate_rdf_quality.py  
-└── README.md
+licence-maquettes-rdf/
+├── BodyOfKnowledge/ # Référentiels externes (ex : ACM)
+├── maquette_pdf/ # Maquettes PDF originales
+├── maquettes/ # Anciennes maquettes ou brouillons
+├── maquettes_csv/ # Fichiers CSV bruts exportés
+├── maquettes_csv_clean/ # CSV nettoyés automatiquement
+├── maquettes_rdf/ # Fichiers RDF finaux (.ttl)
+├── maquettes_xlsx/ # Versions intermédiaires Excel
+├── rdf_output/ # Autres RDF générés temporairement
+├── venv/ # Environnement virtuel Python
+├── .gitignore
+├── Makefile # Automatisation des tâches
+├── README.md # Ce fichier
+├── requirements.txt # Dépendances Python
+├── clean_vertical_csv.py # Nettoyage des CSV
+├── csv_to_rdf.py # Conversion CSV → RDF
+├── validate_rdf.py # Vérification syntaxique RDF
+├── validate_rdf_quality.py # Vérification des champs RDF
+├── query_rdf.py # Requête SPARQL de validation
+└── xlsx_to_csv.py # Conversion Excel → CSV
 
 
 Chaque dossier de maquette contient :  
@@ -40,36 +41,46 @@ Chaque dossier de maquette contient :
 - le fichier CSV nettoyé  
 - le fichier TTL généré automatiquement
 
+
+---
+
 ## ⚙️ Installation et 🚀 Utilisation
 
-# 1. Cloner le dépôt  
-git clone https://github.com/nourrekik/licence-maquettes-rdf.git  
+```bash
+# 1. Cloner le dépôt
+git clone https://github.com/nourrekik/licence-maquettes-rdf.git
 cd licence-maquettes-rdf
 
-# 2. Créer un environnement virtuel  
-python3 -m venv venv  
+# 2. Créer un environnement virtuel
+python3 -m venv venv
 source venv/bin/activate
 
-# 3. Installer les dépendances  
+# 3. Installer les dépendances
 pip install -r requirements.txt
 
-# 4. Nettoyer les fichiers CSV bruts  
-python converter/clean_vertical_csv.py
+# 4. Nettoyer les fichiers CSV bruts
+python clean_vertical_csv.py
 
-# 5. Convertir les fichiers CSV nettoyés en RDF (.ttl)  
-python converter/csv_to_rdf.py
+# 5. Convertir les fichiers CSV nettoyés en RDF (.ttl)
+python csv_to_rdf.py
 
-# 6. Vérifier la validité syntaxique des RDF  
-python converter/validate_rdf.py
+# 6. Vérifier la validité syntaxique des RDF
+python validate_rdf.py
 
-# 7. Vérifier la qualité des RDF (présence des champs requis)  
-python converter/validate_rdf_quality.py
+# 7. Vérifier la qualité des RDF (présence des champs requis)
+python validate_rdf_quality.py
+
+# 8. Interroger un fichier RDF avec SPARQL (exemple)
+python query_rdf.py
+
 
 ## 🧩 Dépendances
 
 Ce projet utilise :  
 - pandas : traitement et manipulation des fichiers CSV  
 - rdflib : génération et validation des graphes RDF  
+- SPARQLLM : alignement sémantique (optionnel)
+
 Toutes les dépendances sont listées dans `requirements.txt`.
 
 ## 🧪 Pipeline résumé
@@ -78,6 +89,7 @@ Toutes les dépendances sont listées dans `requirements.txt`.
 - Les fichiers `.csv` sont nettoyés automatiquement avec `clean_vertical_csv.py`  
 - Les CSV nettoyés sont transformés en RDF avec `csv_to_rdf.py`  
 - Les fichiers RDF sont vérifiés par `validate_rdf.py` et `validate_rdf_quality.py`
+-  Les RDF sont validés via validate_rdf.py et validate_rdf_quality.py
 ## Contexte
 
 Ce travail est réalisé dans le cadre de mon stage de recherche au LS2N (Université de Nantes), dans le projet SPARQLLLM, encadré par Hala Skaf-Molli et Pascal Molli.
