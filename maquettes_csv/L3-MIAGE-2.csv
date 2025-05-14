@@ -1,0 +1,405 @@
+Description des UE;Unnamed: 1
+XLG5IU010;Introduction à l'architecture des ordinateurs
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;FERTIN GUILLAUME GOUALARD FREDERIC
+Volume horaire total;TOTAL : 28h Répartition : CM : 10h TD : 10h CI : 0h TP : 8h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Introduction à l'architecture des ordinateurs 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;"Le module se déclinera en 4 grandes parties:
+• Représentation de l'information
+• Logique et Circuits combinatoires
+• Circuits séquentiels
+• Assembleur MIPS"
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5IU020;Ingénierie des exigences
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;JEAN GERALDINE
+Volume horaire total;TOTAL : 44h Répartition : CM : 13.33h TD : 22.67h CI : 0h TP : 8h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Ingénierie des exigences 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5IU030;Comptabilité financière
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;SUAUDEAU CHRISTOPHE
+Volume horaire total;TOTAL : 56h Répartition : CM : 0h TD : 56h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Comptabilité financière 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5IU040;Optimisation & Automates finis
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;FERTIN GUILLAUME
+Volume horaire total;TOTAL : 28h Répartition : CM : 8h TD : 16h CI : 0h TP : 4h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Optimisation & Automates finis 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;"Ce cours comporte deux parties, l'une sur sur les automates finis et l'autre sur l'optimisation.
+• La partie sur les automates finis porte sur les langages rationnels que l'on manipulent ou modélisent avec les expressions rationnelles et les automates finis.
+• La partie sur l'optimisation présentera plusieurs types de modélisation et de résolution de problèmes liés à la gestion (des ressources, des coûts et profits, des tâches, etc.).   Elle contiendra deux grandes parties: l'une concerne la programmation linéaire, l'autre l'ordonnancement."
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5IU050;Structures Linéaires
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;MONCEAUX-CACHARD LAURA
+Volume horaire total;TOTAL : 44h Répartition : CM : 0h TD : 32h CI : 0h TP : 12h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Structures Linéaires 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);"Comprendre la gestion de la mémoire (pointeurs, allocation dynamique) Comprendre les notions de structures de données abstraites et concrètes
+Savoir utiliser et implémenter les structures de données linéaires classiques (liste, pile et file) Etre capable de choisir une structure de données adaptée à un problème
+Comprendre la différence entre données structurées et dynamiques Être capable de bien documenter un programme
+Être capable de gérer un projet de programmation et de le documenter
+Être capable de concevoir et développer des applications de tailles moyennes"
+Contenu;"Ce module a pour objectifs :
+- de présenter les données dynamiques (listes chainées)
+- de présenter les structures linéraires abstraites et concrètes (liste / pile / file)
+afin d'être capable de choisir la(ou les) structure(s) les plus adaptée(s) pour répondre à un problème donné"
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5IU060;BD & Web
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;DESMONTILS EMMANUEL
+Volume horaire total;TOTAL : 40h Répartition : CM : 0h TD : 24h CI : 0h TP : 16h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;BD & Web 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;"Ce module a pour objectifs à travers un projet de développement d'un site web :
+-   de revoir les notions de modélisation d'un problème, les notions de base de Données (BD) et de Système de Gestion de BD
+- de définir et manipuler des données en SQL répondant à un besoin
+- de réaliser un site web répondant à une demande client, en PHP"
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5IU070;Professionalisation
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;SUAUDEAU CHRISTOPHE
+Volume horaire total;TOTAL : 16h Répartition : CM : 0h TD : 16h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Professionnalisation 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+XLG5AU010;Anglais
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;
+Volume horaire total;TOTAL : 16h Répartition : CM : 0h TD : 16h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Anglais 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5IU110;Gestion de Projet
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;MONCEAUX-CACHARD LAURA
+Volume horaire total;TOTAL : 24h Répartition : CM : 8h TD : 12h CI : 0h TP : 4h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Gestion de Projet 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG5TU200;Stage libre
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;5
+Responsable de l’UE;
+Volume horaire total;TOTAL : 0h Répartition : CM : 0h TD : 0h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;"L3 Chimie : Chimie / mineure Chimie Avancée, L3 Chimie : Chimie Biologie,L3 Chimie : Chimie- Physique DOUBLE DIPLOME,L3 Chimie : Chimie /mineure Enseigner à l'Ecole Primaire EEP,L3 Physique : Mécanique - CMI Ingé. Calcul Méca. _ CMI-ICM,L3 Physique : Physique - CMI Ingé. Nuclé. et Appli. _ CMI-INA,L3 Maths : Maths / mineure CMI Ingéniérie Statistique _ CMI-IS,L3 Info
+: Maths Info / mineure CMI OPTIM,L3 SPI : Electronique, Energie Electrique, Automatique _ EEA,2025 L3 SPI Génie Civil,L3 Info : Informatique / mineure Informatique,L3 Maths : Maths Economie,L3 Info : Maths Info / mineure Maths Info,L3 Maths : Maths / mineure Maths,L3 Info : MIAGE - CLASSIQUE,L3 Physique : Physique,L3 Physique : Physique / mineure Enseigner à l'Ecole Primaire _ EEP,L3 Physique : Physique-Chimie DOUBLE DIPLOME,L3 Physique : Mécanique,L3 SV : Advanced Biology Training ABT,L3 SV : Biologie Cellulaire et Moléculaire BCM,L3 SV : Biologie Cellulaire et Physiologie Animale BCPA,L3 SV : Sciences du Végétal et de l'Aliment SVA / mineure SVA,L3 SV : Sciences du Végétal et de l'Aliment SVA / mineure Enseigner à l'Ecole Primaire _ EEP,L3 SV : Biologie Cellulaire Véto Agro BCVA,L3 SVT : Biologie Écologie _BE,L3 SVT : Biologie, Géologie, Environnement BGE / mineure Enseigner à l'Ecole Primaire _ EEP,L3 SVT : Biologie, Géologie, Environnement BGE / mineure Enseigner les SVT,L3 SVT : Biologie, Géologie, Environnement BGE / mineure Environnement,L3 SVT : Sciences de la Terre et de l'Univers STU,L3 SV : Sciences du Végétal et de l'Aliment LAS3,L3 SVT : Biologie Écologie _BE LAS3, L3 Chimie : Chimie / mineure Chimie Avancée LAS3,L3 Physique : Physique LAS3,L3 Maths : Maths / mineure Maths LAS3,L3 Info : Informatique / mineure Informatique LAS3,2025 L3 SPI EEA,2025 L3 SVT Biologie Ecologie,2025 L3 SVT Enseigner les SVT,2025 L3 SVT Géosciences,2025 L3 SVT LAS 3 Biologie Ecologie,2025 L3 SVT Sciences de l'environnement,2025 L3 INFO Informatique,2025 L3 INFO Informatique mathématiques,2025 L3 INFO option santé (L.AS 3),2025 L3SV : Biologie Cellulaire et Physiologie Animale,2025 L3SV : Sciences du Végétal et de l'Aliment,2025 L3SV : Biologie Vétérinaire Agronomie,2025 L3SV : Biologie Cellulaire et Moléculaire,2025 L3SV:  Advanced Biology Training,2025 L3SV : Licence SV Accès Santé - LAS3 - ,2025 L3 INFO CMI OPT/IM,2025 L3SV ABT S5 100% Anglais,2025 L3 MIASHS - parcours economie,2025 L3 Mathématiques,2025 L3 Maths L.AS Maths,2025 L3 MATHS CMI IS,2025 L3 Physique Chimie,2025 L3 Chimie,2025 L3 Chimie option Santé,2025 L3 Chimie-Biologie,2025 L3 Physique - CMI INA,2025 L3 Physique,2025 L3 Mécanique - CMI ICM,2025 L3 Mécanique,2025 L3 Physique OPTION SANTE,L3 SPI Génie Civil,L3 SPI Génie Civil option SANTE,2025 L3 SPI Génie Civil option SANTE,2025 L3 SPI EEA option Santé"
+Evaluation;
+Pondération pour chaque matière;Stage libre 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6IE010;Réseaux
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;PIAMRAT KANDARAJ
+Volume horaire total;TOTAL : 30h Répartition : CM : 0h TD : 19.33h CI : 0h TP : 10.67h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Réseaux 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6IU020;Administration des BD
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;MONCEAUX-CACHARD LAURA
+Volume horaire total;TOTAL : 40h Répartition : CM : 0h TD : 24h CI : 0h TP : 16h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Administration des BD 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+XLG6IU030;Controle de Gestion
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;CATALO MARIE
+Volume horaire total;TOTAL : 44h Répartition : CM : 0h TD : 40h CI : 0h TP : 4h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Contrôle de Gestion 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6IU130;Développement Web back-end
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;LARHLIMI ABDELHALIM
+Volume horaire total;TOTAL : 44h Répartition : CM : 14.67h TD : 8h CI : 0h TP : 21.33h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Développement Web 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6IU140;Conception et Analyse d'Algorithmes
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;FERTIN GUILLAUME
+Volume horaire total;TOTAL : 44h Répartition : CM : 12h TD : 24h CI : 0h TP : 8h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Conception & Analyse 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;"A l'issue de cet enseignement, on s'attend à ce que l'étudiant.e qui l'a suivi:
+• soit capable de concevoir des algorithmes répondant à un cahier des charges précis
+• soit capable de montrer qu’un algorithme est correct (càd qu’il répond toujours correctement à la question posée)
+• sache analyser la complexité en temps et en mémoire d’un algorithme
+• soit capable de comparer les performances (temps et mémoire) de deux algorithmes répondant au même cahier des charges
+• sache manipuler et exploiter les structures arborescentes et les tas binaires (parcours, insertion, suppression)
+• sache manipuler et exploiter les graphes et algorithmes de graphes"
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6IU060;Langage & Compilation
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;BECHET Denis PERRIN MATTHIEU
+Volume horaire total;TOTAL : 28h Répartition : CM : 0h TD : 20h CI : 0h TP : 8h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Langage & Compilation 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;"Ce module a pour objectifs :
+- de présenter la notion de langages informatiques et des grammaires associées,
+- de présenter les outils d'analyses syntaxiques (bison/flex),
+- de présenter les liens entre les règles syntaxiques et le code interprété ou compilé"
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6AU010;Anglais
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;
+Volume horaire total;TOTAL : 16h Répartition : CM : 0h TD : 16h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Anglais 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6IU080;Stage
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;GOUALARD FREDERIC
+Volume horaire total;TOTAL : 0h Répartition : CM : 0h TD : 0h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Stage 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6IU120;Digitalisation des organisations
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;CATALO MARIE
+Volume horaire total;TOTAL : 24h Répartition : CM : 0h TD : 24h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Info : MIAGE - CLASSIQUE
+Evaluation;
+Pondération pour chaque matière;Digitalisation des organisations 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+;
+XLG6TU200;Stage libre
+Lieu d’enseignement;
+Niveau;Licence
+Semestre;6
+Responsable de l’UE;
+Volume horaire total;TOTAL : 0h Répartition : CM : 0h TD : 0h CI : 0h TP : 0h EAD : 0h
+Place de l’enseignement;
+UE pré-requise(s);
+Parcours d’études comprenant l’UE;L3 Chimie : Chimie / mineure Chimie Avancée, L3 Chimie : Chimie Biologie,L3 Chimie : Chimie- Physique DOUBLE DIPLOME,L3 Chimie : Chimie /mineure Enseigner à l'Ecole Primaire EEP,L3 Physique : Physique - CMI Ingé. Nuclé. et Appli. _ CMI-INA,L3 Maths : Maths / mineure CMI Ingéniérie Statistique _ CMI-IS,L3 Info : Maths Info / mineure CMI OPTIM,L3 SPI : Electronique, Energie Electrique, Automatique _ EEA,2025 L3 SPI Génie Civil,L3 Info : Informatique / mineure Informatique,L3 Maths : Maths Economie,L3 Info : Maths Info / mineure Maths Info,L3 Maths : Maths / mineure Maths,L3 Info : MIAGE - CLASSIQUE,L3 Physique : Physique,L3 Physique : Physique / mineure Enseigner à l'Ecole Primaire _ EEP,L3 Physique : Physique-Chimie DOUBLE DIPLOME,L3 Physique : Mécanique,L3 SV : Advanced Biology Training ABT,L3 SV : Biologie Cellulaire et Moléculaire BCM,L3 SV : Biologie Cellulaire et Physiologie Animale BCPA,L3 SV : Sciences du Végétal et de l'Aliment SVA / mineure SVA,L3 SV : Sciences du Végétal et de l'Aliment SVA / mineure Enseigner à l'Ecole Primaire _ EEP,L3 SV : Biologie Cellulaire Véto Agro BCVA,L3 SVT : Biologie Écologie _BE,L3 SVT : Biologie, Géologie, Environnement BGE / mineure Enseigner à l'Ecole Primaire _ EEP,L3 SVT : Biologie, Géologie, Environnement BGE / mineure Enseigner les SVT,L3 SVT : Biologie, Géologie, Environnement BGE / mineure Environnement,L3 SVT : Sciences de la Terre et de l'Univers STU,L3 SV : Sciences du Végétal et de l'Aliment LAS3,L3 SVT : Biologie Écologie _BE LAS3, L3 Chimie : Chimie / mineure Chimie Avancée LAS3,L3 Physique : Physique LAS3,L3 Maths : Maths / mineure Maths LAS3,L3 Info : Informatique / mineure Informatique LAS3,L3 Physique : Mécanique - CMI Ingé. Calcul Méca. _ CMI-ICM,2025 L3 SPI EEA,2025 L3 SVT Biologie Ecologie,2025 L3 SVT Enseigner les SVT,2025 L3 SVT Géosciences,2025 L3 SVT LAS 3 Biologie Ecologie,2025 L3 SVT Sciences de l'environnement,2025 L3SV : Biologie Cellulaire et Physiologie Animale,2025 L3SV : Sciences du Végétal et de l'Aliment,2025 L3SV : Biologie Vétérinaire Agronomie,2025 L3SV: Advanced Biology Training,2025 L3SV ABT S5 100% Anglais,2025 L3SV : Licence SV Accès Santé - LAS3 - ,2025 L3SV : Biologie Cellulaire et Moléculaire,2025 L3 MIASHS - parcours economie,2025 L3 INFO Informatique  mathématiques,2025 L3 Mathématiques,2025 L3 Maths L.AS Maths,2025 L3 MATHS CMI IS,2025 L3 Physique Chimie,2025 L3 Chimie,2025 L3 Chimie option Santé,2025 L3 Chimie-Biologie,2025 L3 INFO Informatique,2025 L3 INFO option santé (L.AS 3),2025 L3 Physique - CMI INA,2025 L3 Physique,2025 L3 Mécanique - CMI ICM,2025 L3 Mécanique,2025 L3 Physique OPTION SANTE,L3 SPI Génie Civil,L3 SPI Génie Civil option SANTE,2025 L3 SPI Génie Civil option SANTE,2025 L3   SPI EEA option Santé
+Evaluation;
+Pondération pour chaque matière;Stage libre 100%
+Obtention de l’UE;
+Programme;
+Objectifs (résultats d'apprentissage);
+Contenu;
+Méthodes d’enseignement;
+Langue d’enseignement;Français
+Bibliographie;
+Dernière modification par LAURA MONCEAUX-CACHARD, le 2024-05-31 00:45:23;

@@ -1,0 +1,46 @@
+code_UE;label;objectifs;contenu;volume_horaire;ects;semestre;niveau
+XLG5IU010;Introduction à l'architecture des ordinateurs;;"Le module se déclinera en 4 grandes parties:
+• Représentation de l'information
+• Logique et Circuits combinatoires
+• Circuits séquentiels
+• Assembleur MIPS";28;;5;Licence
+XLG5IU020;Ingénierie des exigences;;;44;;5;Licence
+XLG5IU030;Comptabilité financière;;;56;;5;Licence
+XLG5IU040;Optimisation & Automates finis;;"Ce cours comporte deux parties, l'une sur sur les automates finis et l'autre sur l'optimisation.
+• La partie sur les automates finis porte sur les langages rationnels que l'on manipulent ou modélisent avec les expressions rationnelles et les automates finis.
+• La partie sur l'optimisation présentera plusieurs types de modélisation et de résolution de problèmes liés à la gestion (des ressources, des coûts et profits, des tâches, etc.).   Elle contiendra deux grandes parties: l'une concerne la programmation linéaire, l'autre l'ordonnancement.";28;;5;Licence
+XLG5IU050;Structures Linéaires;"Comprendre la gestion de la mémoire (pointeurs, allocation dynamique) Comprendre les notions de structures de données abstraites et concrètes
+Savoir utiliser et implémenter les structures de données linéaires classiques (liste, pile et file) Etre capable de choisir une structure de données adaptée à un problème
+Comprendre la différence entre données structurées et dynamiques Être capable de bien documenter un programme
+Être capable de gérer un projet de programmation et de le documenter
+Être capable de concevoir et développer des applications de tailles moyennes";"Ce module a pour objectifs :
+- de présenter les données dynamiques (listes chainées)
+- de présenter les structures linéraires abstraites et concrètes (liste / pile / file)
+afin d'être capable de choisir la(ou les) structure(s) les plus adaptée(s) pour répondre à un problème donné";44;;5;Licence
+XLG5IU060;BD & Web;;"Ce module a pour objectifs à travers un projet de développement d'un site web :
+-   de revoir les notions de modélisation d'un problème, les notions de base de Données (BD) et de Système de Gestion de BD
+- de définir et manipuler des données en SQL répondant à un besoin
+- de réaliser un site web répondant à une demande client, en PHP";40;;5;Licence
+XLG5IU070;Professionalisation;;;16;;5;Licence
+XLG5AU010;Anglais;;;16;;5;Licence
+XLG5IU110;Gestion de Projet;;;24;;5;Licence
+XLG5TU200;Stage libre;;;0;;5;Licence
+XLG6IE010;Réseaux;;;30;;6;Licence
+XLG6IU020;Administration des BD;;;40;;6;Licence
+XLG6IU030;Controle de Gestion;;;44;;6;Licence
+XLG6IU130;Développement Web back-end;;;44;;6;Licence
+XLG6IU140;Conception et Analyse d'Algorithmes;;"A l'issue de cet enseignement, on s'attend à ce que l'étudiant.e qui l'a suivi:
+• soit capable de concevoir des algorithmes répondant à un cahier des charges précis
+• soit capable de montrer qu’un algorithme est correct (càd qu’il répond toujours correctement à la question posée)
+• sache analyser la complexité en temps et en mémoire d’un algorithme
+• soit capable de comparer les performances (temps et mémoire) de deux algorithmes répondant au même cahier des charges
+• sache manipuler et exploiter les structures arborescentes et les tas binaires (parcours, insertion, suppression)
+• sache manipuler et exploiter les graphes et algorithmes de graphes";44;;6;Licence
+XLG6IU060;Langage & Compilation;;"Ce module a pour objectifs :
+- de présenter la notion de langages informatiques et des grammaires associées,
+- de présenter les outils d'analyses syntaxiques (bison/flex),
+- de présenter les liens entre les règles syntaxiques et le code interprété ou compilé";28;;6;Licence
+XLG6AU010;Anglais;;;16;;6;Licence
+XLG6IU080;Stage;;;0;;6;Licence
+XLG6IU120;Digitalisation des organisations;;;24;;6;Licence
+XLG6TU200;Stage libre;;;0;;6;Licence
